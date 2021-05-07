@@ -1,5 +1,5 @@
 # contacorrente-alura
-Requisitos:Nodejs
+Requisitos: nodejs
 
 Execução: node index.js
 
