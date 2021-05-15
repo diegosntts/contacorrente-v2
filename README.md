@@ -5,7 +5,7 @@ Sistema focando em JavaScript
 
 /Sistema em desenvolvimento/
 
-Requisitos: nodejs
+Requisitos: Nodejs
 
 Execução: node index.js
 
